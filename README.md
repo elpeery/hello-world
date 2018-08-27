@@ -1,2 +1,5 @@
 # hello-world
-living the dream
+
+Living the dream.
+
+Not much else to say, my friend!
